@@ -20,4 +20,4 @@ The function assumes that the input values are valid dates, and that the date of
 
 ## Conclusion
 
-Age Calculator is a simple Python function that can be used to calculate the age of a person based on their date of birth. It can be useful in a wide range of applications, such as age verification, age restrictions, or age-based calculations. The function is easy to use and requires no additional setup, making it a convenient tool for anyone working with dates and ages in Python..
+Age Calculator is a simple Python function that can be used to calculate the age of a person based on their date of birth. It can be useful in a wide range of applications, such as age verification, age restrictions, or age-based calculations. The function is easy to use and requires no additional setup, making it a convenient tool for anyone working with dates and ages in Python...
